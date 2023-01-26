@@ -7,3 +7,8 @@ In this Explore Card, we'll introduce Arrays and solve some cool problems with t
 In addition, the problems have hints which will help you in building up ideas on how to solve them. These hints will be subtle enough to set you on a particular path for reaching the optimized solution, without giving away the answer too easily.
 
 After completing this Explore Card on Arrays, you will understand: - What an Array is. - Basic properties of Arrays. - Implementing basic Array operations. - Simple programming techniques with Arrays.
+
+## Topics
+
+- Introduction
+- Inserting Items into an array
