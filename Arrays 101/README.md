@@ -11,4 +11,17 @@ After completing this Explore Card on Arrays, you will understand: - What an Arr
 ## Topics
 
 - Introduction
+  - Problems
+    - Max Consecutive Ones
+    - Find Numbers with Even Number of Digits
+    - Squares of a Sorted Array
+
 - Inserting Items into an array
+  - Problems
+    - Duplicate Zeroes
+    - Merge Sorted Array
+   
+- Deleting Items From an Array
+  - Problems
+    - Remove Element
+    - Remove Duplicates from Sorted Array 
