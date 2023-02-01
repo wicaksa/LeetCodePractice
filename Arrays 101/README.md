@@ -11,6 +11,7 @@ After completing this Explore Card on Arrays, you will understand: - What an Arr
 ## Topics
 
 - Introduction
+
   - Problems
     - Max Consecutive Ones
     - Find Numbers with Even Number of Digits
@@ -20,8 +21,22 @@ After completing this Explore Card on Arrays, you will understand: - What an Arr
   - Problems
     - Duplicate Zeroes
     - Merge Sorted Array
-   
 - Deleting Items From an Array
+
   - Problems
     - Remove Element
-    - Remove Duplicates from Sorted Array 
+    - Remove Duplicates from Sorted Array
+
+- Searching for Items in an Array
+
+  - Problems
+    - Check If N and Its Double Exist
+    - Valid Mountain Array
+
+- In Place Operations
+  - Problems
+    - Replace Elements with Greatest Element on Right Side
+    - Remove Duplicates from Sorted Array
+    - Move Zeroes
+    - Sort Array By Parity
+    - Remove Element
