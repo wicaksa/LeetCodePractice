@@ -25,5 +25,5 @@ You also have to watch out for an edge case where the initial matrix is of size 
 
 ## Complexities
 
-- Time : O(N) since we are iterating as many times as the total number number of elements in the array.
+- Time : O(N) since we are iterating as many times as the total number of elements in the array.
 - Space: O(N) since we have to allocate an extra array to store the result.
