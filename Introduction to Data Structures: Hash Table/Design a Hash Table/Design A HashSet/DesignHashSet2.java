@@ -96,4 +96,4 @@ class MyHashSet {
     }
 }
 
-// Time complexity depends on load factor (how big the bucket size is) and the rehashing algorith
+// Time complexity depends on load factor (how big the bucket size is) and the rehashing algorithm
